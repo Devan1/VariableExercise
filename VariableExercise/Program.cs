@@ -12,6 +12,7 @@ namespace VariableExercise
             bool true_false;
             double a;
             decimal b;
+            
 
             user_name = "Devan";
             age = 35;
@@ -19,6 +20,7 @@ namespace VariableExercise
             true_false = true;
             a = 64;
             b = 13.2m;
+            
 
             Console.WriteLine(user_name);
             Console.WriteLine(age);
@@ -26,7 +28,8 @@ namespace VariableExercise
             Console.WriteLine(true_false);
             Console.WriteLine(a);
             Console.WriteLine(b);
-              
+            Console.WriteLine($"My name is {user_name}, and I am {age} years old. ");
+            
 
             
             
