@@ -15,7 +15,7 @@ namespace VariableExercise
             
 
             user_name = "Devan";
-            age = 35;
+            age = 34;
             first_initial = 'D';
             true_false = true;
             a = 64;
@@ -29,14 +29,7 @@ namespace VariableExercise
             Console.WriteLine(a);
             Console.WriteLine(b);
             Console.WriteLine($"My name is {user_name}, and I am {age} years old. ");
-            
-
-            
-            
-            
-            
-            
-            //Console.WriteLine("Hello World!");
+          
         }
     }
 }
